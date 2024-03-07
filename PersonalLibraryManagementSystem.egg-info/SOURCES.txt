@@ -1,0 +1,17 @@
+MANIFEST.in
+setup.py
+PersonalLibraryManagementSystem.egg-info/PKG-INFO
+PersonalLibraryManagementSystem.egg-info/SOURCES.txt
+PersonalLibraryManagementSystem.egg-info/dependency_links.txt
+PersonalLibraryManagementSystem.egg-info/entry_points.txt
+PersonalLibraryManagementSystem.egg-info/top_level.txt
+src/__init__.py
+src/book.py
+src/config.py
+src/library.py
+src/search.py
+src/utilities.py
+tests/__init__.py
+tests/test_book.py
+tests/test_library.py
+tests/test_utilities.py

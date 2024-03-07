@@ -1,0 +1,2 @@
+[console_scripts]
+run-library = PersonalLibraryManagementSystem.run_library:main
